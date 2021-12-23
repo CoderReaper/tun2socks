@@ -5,8 +5,8 @@ package tun
 import (
 	"fmt"
 
-	"github.com/xjasonlyu/tun2socks/core/device"
-	"github.com/xjasonlyu/tun2socks/core/device/rwbased"
+	"github.com/linfan/tun2socks/v2/core/device"
+	"github.com/linfan/tun2socks/v2/core/device/rwbased"
 
 	"golang.zx2c4.com/wireguard/tun"
 )
